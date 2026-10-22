@@ -1,3 +1,5 @@
+#name: Dholariya hit
+#enrollment no: 92600584042
 #Two Player Game - Tic-Tac-Toe
 #Using Heuristic Function
 
