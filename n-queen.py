@@ -1,3 +1,5 @@
+#name: Dholariya hit
+#enrollment no: 92600584042
 #No two queens can be in the same row.
 #No two queens can be in the same column.
 #No two queens can be in the same diagonal.
