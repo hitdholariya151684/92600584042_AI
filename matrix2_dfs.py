@@ -1,3 +1,5 @@
+#name: Dholariya hit
+#enrollment no: 92600584042
 #Goal state
 goal = (1, 2, 3,
         4, 5, 6,
